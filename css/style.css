@@ -1,0 +1,23 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  /* background-image: "img/0.jpeg"; */
+  background-repeat : no-repeat;
+  background-size : cover;
+  vertical-align: middle;
+}
+ul{
+  list-style:none;
+}
+.hidden {
+  display: none;
+}
+.wrapper {
+  display: table-cell;
+  height: 100%;
+  vertical-align: middle;
+}
+.center {
+  padding: 70px 0;
+  /* border: 3px solid green; */
+}
